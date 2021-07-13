@@ -1,0 +1,5 @@
+We are learning more git commands today
+This is edited using nano. 
+This the text using VI. by pressing i and then pressig Eneter.
+
+ 
